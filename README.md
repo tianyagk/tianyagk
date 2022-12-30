@@ -1,4 +1,12 @@
-### Hi there 👋
+### I'm Aeoluze 
+
+- Current working as Data Mining Engineer.
+- Familiar with NLP, Recommendation Algorithms, Multi-modal fusion and other areas.
+- Coding as an amateur developer.
+
+### About My Repositories 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianyagk&layout=compact)](https://github.com/tianyagk/github-readme-stats)
 
 <!--
 **tianyagk/tianyagk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
